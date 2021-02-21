@@ -56,9 +56,6 @@ const Login = () => {
       });
   };
 
-  if (error) {
-    return <div>{error}</div>;
-  }
 
   return (
     <>
