@@ -48,7 +48,7 @@ const Login = () => {
       .then((res) => {
         console.log("cd: Login.js: handleLogin: axios post response: ", res);
         localStorage.setItem("token", res.data.payload);
-        push("/protected");
+        push("/bubbles");
       })
       .catch((err) => {
         console.log("cd: Login.js: handleLogin: axios.post error, ", err);

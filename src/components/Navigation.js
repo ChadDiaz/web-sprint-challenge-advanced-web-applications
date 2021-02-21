@@ -6,7 +6,7 @@ const Navigation = () => {
     <div>
       <Link to="/">Log In</Link>
       <br />
-      <Link to="/protected">See Bubbles</Link>
+      <Link to="/bubbles">See Bubbles</Link>
     </div>
   );
 };

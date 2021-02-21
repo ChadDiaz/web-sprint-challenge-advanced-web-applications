@@ -14,7 +14,7 @@ function App() {
         <Navigation />
         <Switch>
           <Route exact path="/" component={Login} />
-          <PrivateRoute path="/protected">
+          <PrivateRoute path="/bubbles">
             <BubblePage />
           </PrivateRoute>
         </Switch>
