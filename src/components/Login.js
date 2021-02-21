@@ -65,7 +65,7 @@ const Login = () => {
       </h1> */}
       {error && <h3 className="error">{error}</h3>}
       <form onSubmit={handleLogin}>
-        <label htmlFor="username" /> Username
+        <label htmlFor="username" /> username
         <input
           id="username"
           name="username"
@@ -74,7 +74,7 @@ const Login = () => {
           onChange={handleChange}
           type="text"
         />
-        <label htmlFor="password" /> Password
+        <label htmlFor="password" /> password
         <input
           id="password"
           name="password"
