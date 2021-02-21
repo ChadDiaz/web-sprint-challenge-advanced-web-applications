@@ -65,9 +65,9 @@ const Login = () => {
       </h1> */}
       {error && <h3 className="error">{error}</h3>}
       <form onSubmit={handleLogin}>
-        <label htmlFor="name" /> Username
+        <label htmlFor="username" /> Username
         <input
-          id="name"
+          id="username"
           name="username"
           value={login.username}
           placeholder="Username"
