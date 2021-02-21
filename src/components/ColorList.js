@@ -54,6 +54,7 @@ const ColorList = ({ colors, updateColors }) => {
       <ul>
         {colors.map((color) => (
           <Color
+            key={color.id}
             color={color}
             editing={editing}
             editColor={editColor}
