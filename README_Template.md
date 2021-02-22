@@ -14,7 +14,7 @@ _Sprint challenges open at Midnight PST on Thursday and close at 5pm PST on Frid
 
 ## Introduction
 
-[Paragraph descripting project functioning. Include any screenshots or gifs of the final output here. As an example:
+[Paragraph describing project functioning. Include any screenshots or gifs of the final output here. As an example:
 
 In this project you will create a login page and request a token from the server that you'll use to send all other requests to the server. You will then be able to fetch the color data array, update data, and delete data, and watch the fun happen!]
 
@@ -22,19 +22,19 @@ In this project you will create a login page and request a token from the server
 
 ### Task 1: Project Setup
 
-* [ ] Fork and clone this repository.
-* [ ] Create a new working branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
-* [ ] **RUN** `npm install` to install your dependencies.
-* [ ] **RUN** `npm start` to start your application.
+* [x] Fork and clone this repository.
+* [x] Create a new working branch: git checkout -b `<firstName-lastName>`.
+* [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [x] Push commits: git push origin `<firstName-lastName>`.
+* [x] **RUN** `npm install` to install your dependencies.
+* [x] **RUN** `npm start` to start your application.
 
 ### Task 2: CodeGrade Setup
 
-* [ ] Open the assignment in Canvas and following along with the attached document [here.](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374).
-* [ ] Follow instructions to set up Codegrade's Webhook and Deploy Key, making sure your deployment is set to your `<firstName-lastName>`.
-* [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`
-* [ ] Check to see that Codegrade has accepted your git submission.
+* [x] Open the assignment in Canvas and following along with the attached document [here.](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374).
+* [x] Follow instructions to set up Codegrade's Webhook and Deploy Key, making sure your deployment is set to your `<firstName-lastName>`.
+* [x] Push your first commit: `git commit --allow-empty -m "first commit" && git push`
+* [x] Check to see that Codegrade has accepted your git submission.
 
 ### Task 3: Project Requirements
 
@@ -44,17 +44,17 @@ In this project you will create a login page and request a token from the server
 
   [Brief description of category: Build a login form to authenticate your users.]
 
-* [ ] Task 1
-* [ ] Task 2
-* [ ] Task 3
+* [x] Task 1
+* [x] Task 2
+* [x] Task 3
 
 #### [Requirement Category: Consuming the API]
 
   [Brief description of category]
 
-* [ ] Task 1
-* [ ] Task 2
-* [ ] Task 3
+* [x] Task 1
+* [x] Task 2
+* [x] Task 3
 
   **Notes:**
 
@@ -79,7 +79,7 @@ In this project you will create a login page and request a token from the server
 
 ### Reference Materials
 
-[include any links or descriptions nessissary for project development]
+[include any links or descriptions necessary for project development]
 
 #### [Reference type: API Documentation]
 
@@ -95,11 +95,11 @@ In this project you will create a login page and request a token from the server
 
 ## Submission format
 
-* [ ] Submit via Codegrade by commiting and pushing any new changes.
+* [ ] Submit via Codegrade by committing and pushing any new changes.
 * [ ] Submit a pull-request to merge <firstName-lastName> branch into main. **Please don't merge your own pull request and make sure you are on your own repo**
 * [ ] Check codegrade for automated feedback.
 * [ ] Check codegrade on Monday following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
-* [ ] Any changes pushed to your <firstName-lastName> branch will resubmited to codegrade if pushed before the sprint challenge deadline. Changes after the deadline will not be reviewed.
+* [ ] Any changes pushed to your <firstName-lastName> branch will resubmitted to codegrade if pushed before the sprint challenge deadline. Changes after the deadline will not be reviewed.
 
 ## Interview Questions
 
